@@ -41,5 +41,12 @@
         <img src="https://lanyard.cnrad.dev/api/1017542503488028733?theme=dark&bg=000000&hideDiscrim=true"/>
     </a>
 </p>
+<h2 align="center">📊 Mis Estadísticas</h2>
 
+<p align="center">
+  <img src="https://[github-readme-stats-lyart-one-57.vercel.app]/api?username=TheMasterRoshiii&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=7F52FF&title_color=7F52FF&hide_border=true" alt="Estadísticas de GitHub" />
+  <br/>
+  <br/>
+  <img src="https://[github-readme-stats-lyart-one-57.vercel.app]/api/top-langs/?username=TheMasterRoshiii&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7F52FF&hide_border=true" alt="Top Lenguajes" />
+</p>
 <hr/>
