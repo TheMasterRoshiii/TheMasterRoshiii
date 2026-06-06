@@ -37,7 +37,9 @@
 
 ## 💭 Información extra 💭
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/1017542503488028733"/>
+    <a href="https://discord.com/users/1017542503488028733">
+        <img src="https://lanyard.cnrad.dev/api/1017542503488028733?theme=dark&bg=000000&hideDiscrim=true"/>
+    </a>
 </p>
 
 <hr/>
