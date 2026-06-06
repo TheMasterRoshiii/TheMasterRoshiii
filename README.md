@@ -1,4 +1,4 @@
-<h3 align="center">¡Hola! Me llamo Adrián 👋</h3>
+<h3 align="center">¡Hola! Me llamo Adrián</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TheMasterRoshiii&color=green"/> 
@@ -8,7 +8,7 @@
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods y plugins de Minecraft
 * 🌱 Tengo 19 años
-* 🌐 Más información sobre mí en [Master](https://master.core-mc.dev/)
+* 🌐 Más información sobre mí en [Portafolio](https://master.core-mc.dev/)
 
 <hr/>
 
@@ -16,15 +16,23 @@
 
 <p align="center">
 <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white">
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-</p>
+<img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwindcss&logoColor=white">
 
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+<img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+</p>
 <br/>
 
 ## 💭 Información extra 💭
