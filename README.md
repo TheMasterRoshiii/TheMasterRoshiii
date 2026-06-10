@@ -48,3 +48,9 @@
   <br/>
   <img src="https://github-readme-stats-lyart-one-57.vercel.app/api/top-langs/?username=TheMasterRoshiii&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7F52FF&hide_border=true" alt="Top Lenguajes" />
 </p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/Master04">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=Master04&cover_image=true&theme=novatimo&show_offline=false&background_color=0d1117&text_color=ffffff&bar_color=7F52FF&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
